@@ -1,9 +1,9 @@
-#DESAROLLO DE APLICACIONES MULTIPLATAFORMA
+# DESAROLLO DE APLICACIONES MULTIPLATAFORMA
 
-#Alejandroaraqueg1
+## Alejandroaraqueg1
 
 **Bienvenidos a mi proyecto de Github**
 
--Proyecto
--Digitalización
--Sistemas
+- Proyecto
+- Digitalización
+- Sistemas
